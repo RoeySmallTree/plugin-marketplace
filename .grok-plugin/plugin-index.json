@@ -2,8 +2,8 @@
   "version": 1,
   "plugins": {
     "ai-powerups": {
-      "sha": "3207c51cd054b34bf0c546b50d901084a64d88e1",
-      "version": "1.0.5",
+      "sha": "e5690acf7aac485e09cf3d38e7151c844cb2e507",
+      "version": "1.0.6",
       "components": {
         "mcpServers": [
           {
